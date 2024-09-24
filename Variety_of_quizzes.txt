@@ -1,0 +1,267 @@
+{
+  "quiz_title": "Introduction to Computer Science",
+  "category": "Technology",
+  "questions": [
+    {
+      "question": "Which part of the computer is responsible for processing data?",
+      "correct_answer": "CPU",
+      "incorrect_answers": [
+        "RAM",
+        "Hard Drive",
+        "Monitor"
+      ]
+    },
+    {
+      "question": "Which of the following is a non-volatile memory?",
+      "correct_answer": "ROM",
+      "incorrect_answers": [
+        "RAM",
+        "Cache",
+        "Registers"
+      ]
+    },
+    {
+      "question": "Which of these binary values is equivalent to the decimal number 10?",
+      "correct_answer": "1010",
+      "incorrect_answers": [
+        "1001",
+        "1111",
+        "0101"
+      ]
+    },
+    {
+      "question": "What does 'GUI' stand for in computing?",
+      "correct_answer": "Graphical User Interface",
+      "incorrect_answers": [
+        "General User Interaction",
+        "Global Usage Interface",
+        "Graphical Universal Input"
+      ]
+    },
+    {
+      "question": "Which type of software provides a platform for other software to run?",
+      "correct_answer": "Operating System",
+      "incorrect_answers": [
+        "Application Software",
+        "Firmware",
+        "Utility Software"
+      ]
+    }
+  ]
+}
+
+
+
+
+{
+  "quiz_title": "World Geography Quiz",
+  "category": "Geography",
+  "questions": [
+    {
+      "question": "Which is the largest continent by area?",
+      "correct_answer": "Asia",
+      "incorrect_answers": [
+        "Africa",
+        "Europe",
+        "South America"
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ]
+    },
+    {
+      "question": "The Nile River is primarily associated with which country?",
+      "correct_answer": "Egypt",
+      "incorrect_answers": [
+        "Sudan",
+        "Kenya",
+        "Ethiopia"
+      ]
+    },
+    {
+      "question": "Which ocean is the deepest?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Southern Ocean"
+      ]
+    },
+    {
+      "question": "Mount Everest is located in which two countries?",
+      "correct_answer": "Nepal and China",
+      "incorrect_answers": [
+        "India and Nepal",
+        "Bhutan and China",
+        "Tibet and Pakistan"
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "quiz_title": "History of Ancient Civilizations",
+  "category": "History",
+  "questions": [
+    {
+      "question": "Which civilization is known for building the pyramids?",
+      "correct_answer": "Ancient Egyptians",
+      "incorrect_answers": [
+        "Mesopotamians",
+        "Romans",
+        "Aztecs"
+      ]
+    },
+    {
+      "question": "The city of Rome was founded in which year?",
+      "correct_answer": "753 BC",
+      "incorrect_answers": [
+        "509 BC",
+        "410 AD",
+        "44 BC"
+      ]
+    },
+    {
+      "question": "Which empire was led by Cyrus the Great?",
+      "correct_answer": "Persian Empire",
+      "incorrect_answers": [
+        "Greek Empire",
+        "Roman Empire",
+        "Ottoman Empire"
+      ]
+    },
+    {
+      "question": "Who was the famous Carthaginian general during the Second Punic War?",
+      "correct_answer": "Hannibal",
+      "incorrect_answers": [
+        "Scipio",
+        "Julius Caesar",
+        "Attila"
+      ]
+    },
+    {
+      "question": "Which civilization was located in present-day Mexico?",
+      "correct_answer": "Aztec",
+      "incorrect_answers": [
+        "Inca",
+        "Maya",
+        "Olmec"
+      ]
+    }
+  ]
+}
+
+
+{
+  "quiz_title": "Fundamentals of Physics",
+  "category": "Science",
+  "questions": [
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "correct_answer": "9.8 m/s²",
+      "incorrect_answers": [
+        "5.8 m/s²",
+        "15.3 m/s²",
+        "7.2 m/s²"
+      ]
+    },
+    {
+      "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+      "correct_answer": "Newton's Third Law",
+      "incorrect_answers": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Law of Inertia"
+      ]
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "correct_answer": "Newton",
+      "incorrect_answers": [
+        "Pascal",
+        "Joule",
+        "Watt"
+      ]
+    },
+    {
+      "question": "Which form of energy is stored in a compressed spring?",
+      "correct_answer": "Potential Energy",
+      "incorrect_answers": [
+        "Kinetic Energy",
+        "Thermal Energy",
+        "Mechanical Energy"
+      ]
+    },
+    {
+      "question": "Which physical quantity is measured in ohms?",
+      "correct_answer": "Resistance",
+      "incorrect_answers": [
+        "Current",
+        "Voltage",
+        "Power"
+      ]
+    }
+  ]
+}
+
+
+
+{
+  "quiz_title": "World Literature Quiz",
+  "category": "Literature",
+  "questions": [
+    {
+      "question": "Who wrote 'Moby Dick'?",
+      "correct_answer": "Herman Melville",
+      "incorrect_answers": [
+        "Mark Twain",
+        "Charles Dickens",
+        "F. Scott Fitzgerald"
+      ]
+    },
+    {
+      "question": "What is the name of the fictional detective created by Sir Arthur Conan Doyle?",
+      "correct_answer": "Sherlock Holmes",
+      "incorrect_answers": [
+        "Hercule Poirot",
+        "Philip Marlowe",
+        "Sam Spade"
+      ]
+    },
+    {
+      "question": "In George Orwell's '1984', what is the name of the totalitarian regime?",
+      "correct_answer": "The Party",
+      "incorrect_answers": [
+        "The Republic",
+        "The Federation",
+        "The State"
+      ]
+    },
+    {
+      "question": "Which Shakespeare play features the characters of Macbeth and Lady Macbeth?",
+      "correct_answer": "Macbeth",
+      "incorrect_answers": [
+        "Othello",
+        "Hamlet",
+        "King Lear"
+      ]
+    },
+    {
+      "question": "What is the title of the famous novel by Jane Austen published in 1813?",
+      "correct_answer": "Pride and Prejudice",
+      "incorrect_answers": [
+        "Sense and Sensibility",
+        "Emma",
+        "Mansfield Park"
+      ]
+    }
+  ]
+}
